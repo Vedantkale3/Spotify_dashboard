@@ -53,13 +53,15 @@ This dashboard enables:
 - Strategic content planning
 - Trend forecasting
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (Full Data Analytics)
 - SQL
 - Python (Data Cleaning)
 - Excel
 - Power BI
 - DAX
-- Figma (Dashboard Design)\
+- Figma (Dashboard Design)
+- R
+- Tableau
 
 ## 📂 Repository Structure
 
