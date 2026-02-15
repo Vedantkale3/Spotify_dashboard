@@ -93,6 +93,7 @@ Spotify-Analytics-Dashboard
 
 ## 👨‍💻 Author
 Your Name: Vedant Kale
+
 GitHub: https://github.com/Vedantkale3  
 LinkedIn: www.linkedin.com/in/vedant-kale-b75419292
 
