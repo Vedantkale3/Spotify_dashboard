@@ -64,9 +64,7 @@ Spotify-Analytics-Dashboard
 ├── README.md
 └── screenshots/
 
-
 ## 📸 Dashboard Preview
-## 📊 Dashboard Preview
 
 ### 🏠 Home Tab
 ![Home Tab](screenshots/home_tab.png)
@@ -77,7 +75,8 @@ Spotify-Analytics-Dashboard
 ### 🎤 Artist Tab
 ![Artist Tab](screenshots/Artist_tab.png)
 
-### 🎵 Songs Tab
+### 🎵 Songs Tabgit pull origin main --allow-unrelated-histories
+
 ![Songs Tab](screenshots/Songs_tab.png)
 
 
