@@ -80,6 +80,12 @@ Spotify-Analytics-Dashboard
 ![Songs Tab](screenshots/Songs_tab.png)
 
 
+## 🎥 Dashboard Demo
+
+## 🎥 Dashboard Demo
+
+[Click here to watch demo](screenshots/spotify_dashboard.mp4)
+
 
 ## 📌 How to Use
 1. Download the `.pbix` file.
