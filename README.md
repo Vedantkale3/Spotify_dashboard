@@ -82,8 +82,6 @@ Spotify-Analytics-Dashboard
 
 ## 🎥 Dashboard Demo
 
-## 🎥 Dashboard Demo
-
 [Click here to watch demo](screenshots/spotify_dashboard.mp4)
 
 
